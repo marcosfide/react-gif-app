@@ -1,12 +1,7 @@
-# React + Vite
+# GifExpertApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi repositorio del proyecto de GifExpertApp de React
 
-Currently, two official plugins are available:
+Puedes verificar su funcionamiento en el despliegue que he realizado en netlify:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [https://gif-app-marcos-fidelibus.netlify.app/](https://gif-app-marcos-fidelibus.netlify.app)
